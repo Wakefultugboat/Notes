@@ -53,4 +53,3 @@ app.listen(PORT,() => {
 });
 });
 
-//mongodb+srv://kahad530_db_user:d4thQZOjRsGLPeyQ@cluster0.zext7bl.mongodb.net/?appName=Cluster0
